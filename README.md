@@ -1,4 +1,4 @@
-# Power-Bi-Dashboard-Projects
+# SuperStore Sales Dashboard using Power Bi
 Power Bi project - Super Stores Sales Dashboard,
 I am excited to share my first Comprehensive project built Using Power BI.
 Key Highlights are - 
